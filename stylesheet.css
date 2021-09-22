@@ -1,0 +1,9 @@
+.connected {
+    padding: 5px 0;
+    color: green;
+}
+
+.disconnected {
+    padding: 5px 0;
+    color: white;
+}

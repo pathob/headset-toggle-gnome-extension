@@ -1,0 +1,10 @@
+{
+    "description": "Otter - Odoo Time Tracker - for GNOME",
+    "name": "Otter for GNOME",
+    "url": "github.com",
+    "uuid": "otter-gnome@hobusch.net",
+    "shell-version": [
+        "40"
+    ],
+    "version": 1
+}
